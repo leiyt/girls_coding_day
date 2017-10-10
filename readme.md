@@ -12,3 +12,4 @@
 7. git push -u origin master    把更改内容推到主分支
 8. git reset --hard HEAD^       回退到上一个版本(HEAD^^上上个版本，HEAD~100上100个版本)
 9. git checkout -- readme.md    把readme.md文件在工作区的修改全部撤销
+10. git reset HEAD file         把暂存区的修改撤销掉
