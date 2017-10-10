@@ -4,9 +4,11 @@
 
 ### git命令
 1. git innit                    初始化一个git仓库
-2. git add fileName             添加一个文件(fileName)到仓库
-3. git commit -m "des"          提交 -m 后面描述提交改变
+2. git add fileName             把文件修改添加到暂存区
+3. git commit -m "des"          把暂存区的所有内容提交到当前分支 -m 后面描述提交改变
 4. git status                   查看仓库当前状态
 5. git diff                     查看更改
 6. git pull URL                 拉取一个请求 URL为实际项目地址
 7. git push -u origin master    把更改内容推到主分支
+8. git reset --hard HEAD^       回退到上一个版本(HEAD^^上上个版本，HEAD~100上100个版本)
+9. git checkout -- readme.md    把readme.md文件在工作区的修改全部撤销
