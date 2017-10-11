@@ -18,3 +18,4 @@
 13. git branch dev              创建dev分支
 14. git checkout dev            切换到dev分支
 15. git branch                  查看当前分支
+16. 
