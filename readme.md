@@ -18,4 +18,5 @@
 13. git branch dev              创建dev分支
 14. git checkout dev            切换到dev分支
 15. git branch                  查看当前分支
-16. 
+16. git branch -d dev           删除dev分支
+17. git merge dev               合并dev分支到当前分支
