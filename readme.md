@@ -1,4 +1,4 @@
-# 初识git
+# 初识git  ## 当前为DEV分支
 * Git is a dietributed version control system.
 * Git is a free software.
 
@@ -21,4 +21,3 @@
 * git branch -d dev           删除dev分支
 * git merge dev               合并dev分支到当前分支
 
-## 当前为DEV分支
