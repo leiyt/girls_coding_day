@@ -1,7 +1,6 @@
-# 初识git
+# 初识git  (master分支)
 * Git is a dietributed version control system.
 * Git is a free software.
-### master分支
 
 ### git命令
 
