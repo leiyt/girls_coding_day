@@ -1,4 +1,5 @@
-# 初识git  ## 当前为DEV分支
+# 初识git
+#### 当前为DEV分支
 * Git is a dietributed version control system.
 * Git is a free software.
 
